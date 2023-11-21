@@ -1,3 +1,8 @@
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝗜'𝗺 Henrique!
+
+ <div>- 🤖 Web Developer </div>
+ <div>- 🌱 Currently learning React/NodeJs/SQL </div>
+ <div>- 🚩 Brazil </div>
 
 
   ![Snake animation](https://github.com/wasleyfps/wasleyfps/blob/output/github-contribution-grid-snake-dark.svg)
