@@ -3,6 +3,7 @@
  <div>- 🤖 Web Developer </div>
  <div>- 🌱 Currently learning React/NodeJs/SQL </div>
  <div>- 🚩 Brazil </div>
+ <div>- 💻 Software Developer at TecnoSpeed
  
   <div style="display: inline_block"><br>
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
