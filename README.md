@@ -1,6 +1,6 @@
 # 👋 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞
 
-I'm Henrique Vedovato, a passionate software developer and technology enthusiast. I currently work as a Junior Software Developer at TecnSpeed.
+I'm Henrique Vedovato, a passionate software developer and technology enthusiast. I currently work as a Junior Software Developer at TecnoSpeed.
 With around 2 years of experience in the area, I have the opportunity to work on several interesting projects and explore different technologies.
 
  <div>- 🤖 Web Developer </div>
